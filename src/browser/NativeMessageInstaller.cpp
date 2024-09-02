@@ -41,7 +41,7 @@ namespace
     const QStringList ALLOWED_EXTENSIONS = QStringList() << QStringLiteral("keepassxc-browser@keepassxc.org");
     const QStringList ALLOWED_ORIGINS = QStringList()
                                         << QStringLiteral("chrome-extension://pdffhmdngciaglkoonimfcmckehcpafo/")
-                                        << QStringLiteral("chrome-extension://oboonakemofpalcgghocfoadofidjkkk/");
+                                        << QStringLiteral("chrome-extension://bamoeaceakeecnkakjhilodjhigjaaio/");
 #if defined(Q_OS_MACOS)
     const QString TARGET_DIR_CHROME = QStringLiteral("/Library/Application Support/Google/Chrome/NativeMessagingHosts");
     const QString TARGET_DIR_CHROMIUM = QStringLiteral("/Library/Application Support/Chromium/NativeMessagingHosts");

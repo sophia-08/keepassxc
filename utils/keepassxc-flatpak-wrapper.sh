@@ -24,7 +24,7 @@
 # https://developer.mozilla.org/docs/Mozilla/Add-ons/WebExtensions/Native_messaging
 
 # Chromium, Google Chrome, Vivaldi & Brave
-readonly arg1='chrome-extension://oboonakemofpalcgghocfoadofidjkkk'
+readonly arg1='chrome-extension://bamoeaceakeecnkakjhilodjhigjaaio'
 # Firefox & Tor Browser
 readonly arg2='keepassxc-browser@keepassxc.org'
 

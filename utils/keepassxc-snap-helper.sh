@@ -52,7 +52,7 @@ JSON_CHROME=$(cat << EOF
     "type": "stdio",
     "allowed_origins": [
         "chrome-extension://iopaggbpplllidnfmcghoonnokmjoicf/",
-        "chrome-extension://oboonakemofpalcgghocfoadofidjkkk/",
+        "chrome-extension://bamoeaceakeecnkakjhilodjhigjaaio/",
         "chrome-extension://pdffhmdngciaglkoonimfcmckehcpafo/"
     ]
 }
